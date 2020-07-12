@@ -26,7 +26,7 @@
 
     <div class="jumbotron">
         <h1 class="display-4">My Details</h1>
-        <p class="lead">The first section table connected to mysql database to retrieve the data. CRUD's create was used to create the table; read was used to display the table. Code can be found at: https://github.com/JohnYuxiangLiu/phpApiSH</p>
+        <p class="lead">The first section table connected to mysql database to retrieve the data. CRUD's create was used to create the table; read was used to display the table. Code can be found at: <a href="https://github.com/JohnYuxiangLiu/phpApiSH" target="_blank">https://github.com/JohnYuxiangLiu/phpApiSH</a></p>
         <hr class="my-4">
 
         <?php
@@ -88,7 +88,7 @@
     <div class="jumbotron jumbotron-fluid">
         <div class="container">
             <h1 class="display-4">Backend Api JSON data</h1>
-            <p class="lead">Repository.php and Controller.php have been created to form the API. OOP style was used. This code has been uploaded to my github: https://github.com/JohnYuxiangLiu/phpApiSH</p>
+            <p class="lead">Repository.php and Controller.php have been created to form the API. OOP style was used. This code has been uploaded to my github: <a href="https://github.com/JohnYuxiangLiu/phpApiSH" target="_blank">https://github.com/JohnYuxiangLiu/phpApiSH</a></p>
 
 
             <?php
