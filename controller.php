@@ -49,7 +49,7 @@ class Controller
         //         break;
         // }
         $response = $this->getUsers();
-        header($response['status_code']);
+        // header($response['status_code']);
         if ($response['body']) {
             // header('Content-Type: application/json');
             echo $response['body'];
